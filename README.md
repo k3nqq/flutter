@@ -31,16 +31,10 @@
 ![image](https://user-images.githubusercontent.com/114649232/198521767-cf64a02d-3cce-470d-8e8f-7f60589a6a37.png)
 Рисунок 8 – Второй макет
 
-![image](https://sun9-60.userapi.com/impg/x4V48SwH7J95bi5Kywjzrg-CbXE-Wch9f18YRQ/Q9JV0cXbNsI.jpg?size=1920x1080&quality=96&sign=2ba79239c77c7814e5d0b6134c871c9d&type=album)
+![image](https://github.com/k3nqq/flutter/blob/master/img/1.PNG)
 Рисунок 9 – Код третьего макета
 
-![image](https://sun9-2.userapi.com/impg/zM9LuC5rvHtsFh2jTYvcVTsT4C43m0U53kfETw/UHYXTRPIfcY.jpg?size=1920x1080&quality=96&sign=9d8a18ce3b46bc03b04687c8297d9a2b&type=album)
-Рисунок 10 – Код третьего макета
-
-![image](https://sun9-38.userapi.com/impg/9jWHLJIkocsWdSf-yZVHu-Xr6_LnBsv_xl1hww/scOEZtbzlXo.jpg?size=1920x1080&quality=96&sign=c9d7cb3524a2b0bee5a70bdc97799dac&type=album)
-Рисунок 11 – Код третьего макета
-
-![image](https://github.com/AlexeevSA/Flutter/blob/main/PrImg/7.png)
+![image](https://github.com/k3nqq/flutter/blob/master/img/2.PNG)
 Рисунок 12 – Третий макет
 
 Вывод: в результате выполнения работы создал несколько макетов приложений для мобильного устройства используя flutter
